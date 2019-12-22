@@ -8,3 +8,5 @@ print("hello world")
 a = input("Write")
 
 print("hei, Edvard!")
+
+print("it woooooorks!!")
