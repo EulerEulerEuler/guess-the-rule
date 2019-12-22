@@ -1,2 +1,2 @@
-# guess-the-rule
+# Guess-the-rule
 Can you guess the rule?
