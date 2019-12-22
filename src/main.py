@@ -10,3 +10,6 @@ a = input("Write")
 print("hei, Edvard!")
 
 print("it woooooorks!!")
+
+
+print("haJSDNjbah")
